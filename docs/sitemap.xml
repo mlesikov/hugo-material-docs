@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/tutorials/hidden</loc>
+    <lastmod>2017-01-09T15:19:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/tutorials/servicesSetUp/</loc>
+    <lastmod>2017-01-09T15:03:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/tutorials/contract_signing/</loc>
+    <lastmod>2017-01-09T14:34:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/tutorials/</loc>
+    <lastmod>2017-01-09T14:31:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/</loc>
+    <lastmod>2017-01-09T15:19:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mlesikov.github.io/hugo-material-docs/tutorials/</loc>
+    <lastmod>2017-01-09T15:19:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
