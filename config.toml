@@ -31,7 +31,7 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
+    	primary = "light-blue"
     	accent  = "teal"
 
     [params.font]
@@ -49,6 +49,23 @@ googleAnalytics = ""
 	name   = "Material"
 	url    = "/"
 	weight = 0
+
+[[menu.main]]
+	name   = "Tutorials"
+	url    = "tutorials/"
+	weight = 1
+
+[[menu.main]]
+    parent = "Tutorials"
+    name   = "Contract Signing Tutorial"
+    url    = "tutorials/contract_signing/"
+    weight = 2
+[[menu.main]]
+    parent = "Tutorials"
+    name   = "Services set up"
+    url    = "tutorials/servicesSetUp"
+    weight = 3
+
 
 [[menu.main]]
 	name   = "Getting started"
