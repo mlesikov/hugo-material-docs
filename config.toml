@@ -19,7 +19,7 @@ googleAnalytics = ""
 	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
 
 	version = "1.0.0"
-	logo = "images/logo.png"
+	logo = "images/logo.ico"
 	favicon = ""
 
 	permalink = "#"
@@ -52,26 +52,26 @@ googleAnalytics = ""
 	weight = 0
 
 [[menu.main]]
+    name   = "Getting started"
+    url    = "getting-started/"
+    weight = 10
+
+[[menu.main]]
 	name   = "Tutorials"
 	url    = "tutorials/"
-	weight = 1
+	weight = 11
 
 [[menu.main]]
     parent = "Tutorials"
     name   = "Contract Signing Tutorial"
     url    = "tutorials/contract_signing/"
     weight = 2
+
 [[menu.main]]
     parent = "Tutorials"
     name   = "Services set up"
     url    = "tutorials/servicesSetUp"
     weight = 3
-
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
-	weight = 10
 
 [[menu.main]]
 	name   = "Adding content"

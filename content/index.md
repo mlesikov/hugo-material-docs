@@ -4,6 +4,5 @@ type: index
 weight: 0
 ---
 
-
-
 Index page
+
