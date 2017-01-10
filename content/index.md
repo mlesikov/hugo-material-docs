@@ -1,5 +1,5 @@
 ---
-title: Material for TelcoNG
+title: TelcoNG BSS Docs
 type: index
 weight: 0
 ---
