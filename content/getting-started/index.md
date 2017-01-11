@@ -6,9 +6,11 @@ title: Getting started
 ###  Конфигуриране:
   - Създаване на услуга
      - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
-     {{< youtube SuQjiH-FEjo >}}
+     <video width="100%" controls>
+       <source src="/video/device_types_nomenclature.ogv" type="video/mp4">
+       Your browser does not support HTML5 video.
+     </video>
      - Създаване на типове услуги (Интернет, Телевизия)
-     {{< youtube SuQjiH-FEjo >}}
      - Създаване на услуги(вкл. типов устройства, типове услуги)
      - Дoпълнителни вземания(Услуги с добавена стойност)
      - Номенклатура на градовете
@@ -38,12 +40,3 @@ title: Getting started
      - тагове- различни маркери, чрез които може да се указват допълнителни дефиницци, налични към задачите за изпълнение
      - забележки - свободен текст 
      - без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
-     
-     
-    
-<video width="100%" controls>
-  <source src="/video/deviceTypes_config.ogv" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-     
-

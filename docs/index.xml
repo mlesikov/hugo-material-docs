@@ -27,17 +27,11 @@
 
 &lt;ul&gt;
 &lt;li&gt;Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/SuQjiH-FEjo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/li&gt;
-&lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/SuQjiH-FEjo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-&lt;/li&gt;
+&lt;video width=&#34;100%&#34; controls&gt;
+&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/device_types_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)&lt;/li&gt;
 &lt;li&gt;Създаване на услуги(вкл. типов устройства, типове услуги)&lt;/li&gt;
 &lt;li&gt;Дoпълнителни вземания(Услуги с добавена стойност)&lt;/li&gt;
 &lt;li&gt;Номенклатура на градовете
@@ -81,18 +75,9 @@
 &lt;li&gt;срок - в пряка зависимост от приложената отстъпка(купон) към услугата&lt;/li&gt;
 &lt;li&gt;тагове- различни маркери, чрез които може да се указват допълнителни дефиницци, налични към задачите за изпълнение&lt;/li&gt;
 &lt;li&gt;забележки - свободен текст&lt;/li&gt;
-&lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;video width=&#34;100%&#34; controls&gt;
-  &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/deviceTypes_config.ogv&#34; type=&#34;video/mp4&#34;&gt;
-  Your browser does not support HTML5 video.
-&lt;/video&gt;
-     
 </description>
     </item>
     
@@ -219,6 +204,12 @@
 &lt;h2 id=&#34;admonitions&#34;&gt;Admonitions&lt;/h2&gt;
 
 &lt;p&gt;Admonition is a handy feature that adds block-styled side content to your documentation, for example hints, notes or warnings. It can be enabled by using the corresponding &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;shortcodes&lt;/a&gt; inside your content:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SuQjiH-FEjo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 </description>
     </item>
     
