@@ -77,10 +77,19 @@
 &lt;li&gt;срок - в пряка зависимост от приложената отстъпка(купон) към услугата&lt;/li&gt;
 &lt;li&gt;тагове- различни маркери, чрез които може да се указват допълнителни дефиницци, налични към задачите за изпълнение&lt;/li&gt;
 &lt;li&gt;забележки - свободен текст&lt;/li&gt;
-&lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени&lt;/li&gt;
+&lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;video width=&#34;100%&#34; controls&gt;
+  &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/deviceTypes_config.ogv&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support HTML5 video.
+&lt;/video&gt;
+     
 </description>
     </item>
     
