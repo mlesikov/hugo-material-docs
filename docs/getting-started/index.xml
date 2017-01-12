@@ -11,14 +11,12 @@
     <atom:link href="https://mlesikov.github.io/hugo-material-docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Getting started</title>
+      <title>Подписване на договор</title>
       <link>https://mlesikov.github.io/hugo-material-docs/getting-started/</link>
       <pubDate>Tue, 10 Jan 2017 11:48:54 +0200</pubDate>
       
       <guid>https://mlesikov.github.io/hugo-material-docs/getting-started/</guid>
       <description>
-
-&lt;h1 id=&#34;подписване-на-договор&#34;&gt;Подписване на договор&lt;/h1&gt;
 
 &lt;h2 id=&#34;конфигуриране&#34;&gt;Конфигуриране:&lt;/h2&gt;
 
@@ -46,7 +44,11 @@ Your browser does not support HTML5 video.
 &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/coupons_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support HTML5 video.
 &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Дoпълнителни вземания - шаблони(Услуги с добавена стойност)&lt;/li&gt;
+&lt;li&gt;Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
+&lt;video width=&#34;100%&#34; controls&gt;
+&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/vas-templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Номенклатура на градовете
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;

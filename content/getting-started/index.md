@@ -25,6 +25,10 @@ title: Подписване на договор
        Your browser does not support HTML5 video.
      </video>   
      - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
+     <video width="100%" controls>
+       <source src="/video/vas-templates_nomenclature.ogv" type="video/mp4">
+       Your browser does not support HTML5 video.
+     </video>        
      - Номенклатура на градовете
      
 
