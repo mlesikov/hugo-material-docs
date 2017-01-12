@@ -18,9 +18,9 @@
       <guid>https://mlesikov.github.io/hugo-material-docs/getting-started/</guid>
       <description>
 
-&lt;h2 id=&#34;подписване-на-договор&#34;&gt;Подписване на договор&lt;/h2&gt;
+&lt;h1 id=&#34;подписване-на-договор&#34;&gt;Подписване на договор&lt;/h1&gt;
 
-&lt;h3 id=&#34;конфигуриране&#34;&gt;Конфигуриране:&lt;/h3&gt;
+&lt;h2 id=&#34;конфигуриране&#34;&gt;Конфигуриране:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Създаване на услуга
@@ -31,15 +31,28 @@
 &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/device_types_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support HTML5 video.
 &lt;/video&gt;&lt;/li&gt;
-&lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)&lt;/li&gt;
-&lt;li&gt;Създаване на услуги(вкл. типов устройства, типове услуги)&lt;/li&gt;
-&lt;li&gt;Дoпълнителни вземания(Услуги с добавена стойност)&lt;/li&gt;
+&lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)
+&lt;video width=&#34;100%&#34; controls&gt;
+&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/service_type_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;/li&gt;
+&lt;li&gt;Създаване на услуги(вкл. типов устройства, типове услуги)
+&lt;video width=&#34;100%&#34; controls&gt;
+&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/services_catalog.ogv&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Купони - отстъпли прилагани върху услуга
+&lt;video width=&#34;100%&#34; controls&gt;
+&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/coupons_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Дoпълнителни вземания - шаблони(Услуги с добавена стойност)&lt;/li&gt;
 &lt;li&gt;Номенклатура на градовете
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;въвеждане&#34;&gt;Въвеждане&lt;/h3&gt;
+&lt;h2 id=&#34;въвеждане&#34;&gt;Въвеждане&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Град - населено мястно в което се подписва договорът&lt;/li&gt;
@@ -77,6 +90,13 @@ Your browser does not support HTML5 video.
 &lt;li&gt;забележки - свободен текст&lt;/li&gt;
 &lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;шаблони&#34;&gt;Шаблони&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Създаване&lt;/li&gt;
+&lt;li&gt;Прилагане&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
