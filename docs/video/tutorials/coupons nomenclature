@@ -1,0 +1,28 @@
+Coupons
+
+Represents mothly percent discount from the service price.
+Each coupon is for a single service.
+
+place: 
+Administration / Promotions / Coupons
+------------------------------------------------------------------------------------------
+
+Examle coupons:
+
+------------------------------------------------------------------------------------------
+name: Internet 30Mbps & Basic TV 6 monhts 50%
+
+description: 50% discount for the first six months
+period: 12 months
+service: Internet 30Mbps & Basic TV
+
+------------------------------------------------------------------------------------------
+name: Internet 30Mbps & Basic TV 12 x 14.40
+
+description: 40% discount for the whole period of the contract and after that
+period: 12 months
+service: Internet 30Mbps & Basic TV
+
+
+13+ is the discount that will be applly after the 12 month period expire.
+0 month is the month(closure period) before the first billing date.

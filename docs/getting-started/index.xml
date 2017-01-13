@@ -21,40 +21,36 @@
 &lt;h2 id=&#34;конфигуриране&#34;&gt;Конфигуриране:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Създаване на услуга
-
-&lt;ul&gt;
 &lt;li&gt;Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/device_types_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/device_types_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;/li&gt;
 &lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/service_type_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/service_type_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;/li&gt;
 &lt;li&gt;Създаване на услуги(вкл. типов устройства, типове услуги)
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/services_catalog.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/services_catalog.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Купони - отстъпли прилагани върху услуга
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/coupons_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/coupons_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/vas-templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/vas-templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Номенклатура на градовете
-&lt;video width=&#34;100%&#34; controls&gt;
-&lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/cities_&amp;_street_nomenclatures.ogv&#34; type=&#34;video/mp4&#34;&gt;
-Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+ &lt;video width=&#34;100%&#34; controls&gt;
+   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/cities_&amp;_street_nomenclatures.ogv&#34; type=&#34;video/mp4&#34;&gt;
+   Your browser does not support HTML5 video.
+ &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;въвеждане&#34;&gt;Въвеждане&lt;/h2&gt;
@@ -100,8 +96,11 @@ Your browser does not support HTML5 video.
 &lt;h2 id=&#34;шаблони&#34;&gt;Шаблони&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Създаване&lt;/li&gt;
-&lt;li&gt;Прилагане&lt;/li&gt;
+&lt;li&gt;Създаване и използване
+&lt;video width=&#34;100%&#34; controls&gt;
+ &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/contract_templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+ Your browser does not support HTML5 video.
+&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -3,33 +3,32 @@ date: 2017-01-10T11:48:54+02:00
 title: Подписване на договор
 ---
 ##  Конфигуриране:
-  - Създаване на услуга
-     - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
+   - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
      <video width="100%" controls>
        <source src="/video/device_types_nomenclature.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>
-     - Създаване на типове услуги (Интернет, Телевизия)
+   - Създаване на типове услуги (Интернет, Телевизия)
      <video width="100%" controls>
        <source src="/video/service_type_nomenclature.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>
-     - Създаване на услуги(вкл. типов устройства, типове услуги)
+   - Създаване на услуги(вкл. типов устройства, типове услуги)
      <video width="100%" controls>
        <source src="/video/services_catalog.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>     
-     - Купони - отстъпли прилагани върху услуга
+   - Купони - отстъпли прилагани върху услуга
      <video width="100%" controls>
        <source src="/video/coupons_nomenclature.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>   
-     - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
+   - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
      <video width="100%" controls>
        <source src="/video/vas-templates_nomenclature.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>        
-     - Номенклатура на градовете
+   - Номенклатура на градовете
      <video width="100%" controls>
        <source src="/video/cities_&_street_nomenclatures.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
@@ -61,5 +60,8 @@ title: Подписване на договор
      - без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
 
 ##  Шаблони
-  - Създаване
-  - Прилагане
+  - Създаване и използване
+  <video width="100%" controls>
+     <source src="/video/contract_templates_nomenclature.ogv" type="video/mp4">
+     Your browser does not support HTML5 video.
+  </video>     

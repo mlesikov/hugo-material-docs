@@ -1,0 +1,35 @@
+
+Creating Service Types
+
+The structure of the service types is a trees. It is important when 
+the services a being select during the contract signing. There are
+filters that allows selecting services only from a single tree of
+types. This is useful when we describe dependencies between the 
+service, when one service requires another.  
+
+place:
+Administration / Services
+
+types: 
+
+ - Internet
+   - sub service type(depending of the internet service)
+ - TV 
+ - Internet + TV (Bundle)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
