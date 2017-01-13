@@ -30,9 +30,10 @@ title: Подписване на договор
      </video>        
    - Номенклатура на градовете
      <video width="100%" controls>
-       <source src="/video/cities_&_street_nomenclatures.ogv" type="video/mp4">
+       <source src="/video/operation_zones.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
-     </video>             
+     </video>    
+   - Оперативни зони              
 
 ##  Въвеждане
   - Град - населено мястно в което се подписва договорът
