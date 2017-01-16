@@ -1,0 +1,31 @@
+Contract Signing
+
+ - Signing place 
+ - External referent (optional)
+ - contract temaptalte (optional) -uses the available temaplates for easier contract signing
+ - Provided service/s
+ - Coupons (code) - discounts to the service montly taxes
+ - Device - including required, and addtionally added from the optional devices
+    - model, sell price, rent    
+ - Additional charges
+ - Customer - private person / company
+   - existing customer (private person, egn: 9008085973, id card : 194352799)
+   - new customer (company, Clouway eik: 201427103)
+ - Service address  - should be geographicaly in on e of the Working zones
+ - Contact persons - notification, invoicing, troubles
+ - Terms
+   - Payment day
+   - contract lenght(period) in months
+   - tags - markers that are applied to the instalaltion tasks too.
+   - notes 
+   - revision opportunity
+
+
+
+
+
+
+
+
+
+
