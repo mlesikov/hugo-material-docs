@@ -4,20 +4,17 @@ title: Подписване на договор
 ---
 ##  Конфигуриране
    - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
-     <video width="100%" controls>
-       <source src="/video/device_types_nomenclature.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>
+     {{< youtube U3eYG-maGBA >}}
    - Създаване на типове услуги (Интернет, Телевизия)
      {{< youtube QDY-vB5b-c4 >}}
    - Създаване на услуги(вкл. типов устройства, типове услуги)
      {{< youtube GUKDk9MZfKU >}}
    - Купони - отстъпли прилагани върху услуга
-   {{< youtube LK4aSVnqHno >}}
+     {{< youtube LK4aSVnqHno >}}
    - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
-   {{< youtube mObazOcvzAM >}}      
+     {{< youtube mObazOcvzAM >}}      
    - Номенклатура на градовете
-   {{< youtube yKYgtu3PzJ0 >}}
+     {{< youtube yKYgtu3PzJ0 >}}
    - Оперативни зони
      {{< youtube u2q-yYE0XdU >}}
      
