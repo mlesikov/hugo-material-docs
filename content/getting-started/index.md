@@ -1,49 +1,47 @@
 ---
 date: 2017-01-10T11:48:54+02:00
-title: Подписване на договор
+title: Signing a contract
 ---
-##  Конфигуриране
-   - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
+##  configuration
+   - Creating Device type(name. params, modles)
      {{< youtube U3eYG-maGBA >}}
-   - Създаване на типове услуги (Интернет, Телевизия)
+   - Creating service types
      {{< youtube QDY-vB5b-c4 >}}
-   - Създаване на услуги(вкл. типов устройства, типове услуги)
+   - Creating services(requres device type and service type)
      {{< youtube GUKDk9MZfKU >}}
-   - Купони - отстъпли прилагани върху услуга
+   - Discount coupons -  discounts on services
      {{< youtube LK4aSVnqHno >}}
-   - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
+   - Additional charge templates - value added services templates
      {{< youtube mObazOcvzAM >}}      
-   - Номенклатура на градовете
+   - City and streets nomeclatures
      {{< youtube yKYgtu3PzJ0 >}}
-   - Оперативни зони
+   - Working(Operation) xones
      {{< youtube u2q-yYE0XdU >}}
      
-##  Шаблони
-  - Създаване и използване
+##  contract templates
   {{< youtube HxSXidGZwyo >}}
   
-##  Въвеждане
-  - Град - населено мястно в което се подписва договорът
-  - Външен референт - използва се за въвеждане на външен номер
-  - Шаблон на договор - възможност за избор на предварително подготвен шаблон, попълващ основните параметри по договора
-  - Предоставени услуги 
-    - Услугата, която ще бъде предоставен на клиента
-    - Купон - промоционален код, посочващ прилаганите отстъпки
-    - Устройства
-      - брой - определяне броят на предоставените - задължителни/допълнителни
-      - тип - тип на устройствата
-      - месечен наем (дефиниреан в услугата)
-      - модел, продажна цена, иснталационна такса
-  - Дoпълнителни вземания(Услуги с добавена стойност) - избират се допълнителни вземания от предварително дефинираните услуги с добавена стойност. Пример: Инсталационна такса 14.99лв.
-  - Клиент
-     - избиране на същесвтуващ
-     - въвеждане на нов
-  - Адрес за доставка на услугата
-  - Лица за контакт към договора - известяване, фактуриране, връзка при авария
-  - Допълнителни условия и забележки
-     - платежен ден - опциите се конфигурират глобално или подтделно за всеки клиент
-     - срок - в пряка зависимост от приложената отстъпка(купон) към услугата
-     - тагове- различни маркери, чрез които може да се указват допълнителни дефиницци, налични към задачите за изпълнение
-     - забележки - свободен текст 
-     - без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
+##  signing
+  - City - the palce of signing
+  - External referent- used for describing external relations 
+  - Contract tempalate - we can choose some of the defined tempaltes for easier setup of the services
+  - Contract services
+    - Service(required) that will be provided to the customer
+    - discount coupon(optional) - discount coupon per service
+    - Device  - required/optional
+      - device type - describing the type of the device PON/STB
+      - mothly rent (defined in the service)
+      - model, sell price, installation fee
+  - Addtional charges(Value Added Service) - selecting of the value added tempaltes
+  - Customer - private paerson/company
+     - an existing customer
+     - a new customer
+  - Provistioing service address
+  - Contact persons  notifications, invoicing, troubles
+  - Additional terms and notes
+     - payment day - selecting one of the options. The options are defined in the customer.
+     - period - contract period in months
+     - tags 
+     - notes 
+     - no revision opportunity - allows edition of the contract in a time buffer between the signing and isntallation task creation,
 

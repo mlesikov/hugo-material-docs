@@ -1,6 +1,5 @@
 
-
-Device Types nomenclature
+Device Types
 
 place:
 Administration / Device Types
