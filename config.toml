@@ -9,16 +9,6 @@ canonifyurls = true
 googleAnalytics = ""
 
 [params]
-	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
-
-	# Repository
-#	provider = "GitHub"
-#	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
-
-#	version = "1.0.0"
 	logo = "images/logo.ico"
 	favicon = ""
 
@@ -39,13 +29,6 @@ googleAnalytics = ""
     	text = "Ubuntu"
     	code = "Ubuntu Mono"
 
-
-#[social]
-#	twitter = ""
-#	github  = "digitalcraftsman"
-#	email   = "hello@email.com"
-#
-
 [[menu.main]]
 	name   = "Home"
 	url    = "/"
@@ -55,42 +38,3 @@ googleAnalytics = ""
     name   = "Getting started"
     url    = "getting-started/"
     weight = 10
-
-#[[menu.main]]
-#	name   = "Tutorials"
-#	url    = "tutorials/"
-#	weight = 11
-#
-#[[menu.main]]
-#    parent = "Tutorials"
-#    name   = "Contract Signing Tutorial"
-#    url    = "tutorials/contract_signing/"
-#    weight = 2
-#
-#[[menu.main]]
-#    parent = "Tutorials"
-#    name   = "Services set up"
-#    url    = "tutorials/servicesSetUp"
-#    weight = 3
-#
-#[[menu.main]]
-#	name   = "Adding content"
-#	url    = "adding-content/"
-#	weight = 20
-#
-#[[menu.main]]
-#	name   = "Roadmap"
-#	url    = "roadmap/"
-#	weight = 30
-#
-#[[menu.main]]
-#	name   = "License"
-#	url    = "license/"
-#	weight = 40
-
-
-[blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
