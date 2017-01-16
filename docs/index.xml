@@ -18,7 +18,7 @@
       <guid>https://mlesikov.github.io/hugo-material-docs/getting-started/</guid>
       <description>
 
-&lt;h2 id=&#34;конфигуриране&#34;&gt;Конфигуриране:&lt;/h2&gt;
+&lt;h2 id=&#34;конфигуриране&#34;&gt;Конфигуриране&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
@@ -27,31 +27,54 @@
    Your browser does not support HTML5 video.
  &lt;/video&gt;&lt;/li&gt;
 &lt;li&gt;Създаване на типове услуги (Интернет, Телевизия)
- &lt;video width=&#34;100%&#34; controls&gt;
-   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/service_type_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-   Your browser does not support HTML5 video.
- &lt;/video&gt;&lt;/li&gt;
+ 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/QDY-vB5b-c4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/li&gt;
 &lt;li&gt;Създаване на услуги(вкл. типов устройства, типове услуги)
- &lt;video width=&#34;100%&#34; controls&gt;
-   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/services_catalog.ogv&#34; type=&#34;video/mp4&#34;&gt;
-   Your browser does not support HTML5 video.
- &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+ 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/GUKDk9MZfKU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/li&gt;
 &lt;li&gt;Купони - отстъпли прилагани върху услуга
- &lt;video width=&#34;100%&#34; controls&gt;
-   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/coupons_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-   Your browser does not support HTML5 video.
- &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/LK4aSVnqHno&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/li&gt;
 &lt;li&gt;Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
- &lt;video width=&#34;100%&#34; controls&gt;
-   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/vas-templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
-   Your browser does not support HTML5 video.
- &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/mObazOcvzAM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Номенклатура на градовете
- &lt;video width=&#34;100%&#34; controls&gt;
-   &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/operation_zones.ogv&#34; type=&#34;video/mp4&#34;&gt;
-   Your browser does not support HTML5 video.
- &lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Оперативни зони&lt;br /&gt;&lt;/li&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yKYgtu3PzJ0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;Оперативни зони
+ 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/u2q-yYE0XdU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;шаблони&#34;&gt;Шаблони&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Създаване и използване
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/HxSXidGZwyo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;въвеждане&#34;&gt;Въвеждане&lt;/h2&gt;
@@ -92,16 +115,6 @@
 &lt;li&gt;забележки - свободен текст&lt;/li&gt;
 &lt;li&gt;без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;шаблони&#34;&gt;Шаблони&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Създаване и използване
-&lt;video width=&#34;100%&#34; controls&gt;
- &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/contract_templates_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
- Your browser does not support HTML5 video.
-&lt;/video&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -235,6 +248,11 @@
   &lt;iframe src=&#34;//www.youtube.com/embed/SuQjiH-FEjo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
+
+&lt;video width=&#34;100%&#34; controls&gt;
+       &lt;source src=&#34;https://mlesikov.github.io/hugo-material-docs/video/device_types_nomenclature.ogv&#34; type=&#34;video/mp4&#34;&gt;
+       Your browser does not support HTML5 video.
+     &lt;/video&gt;
 </description>
     </item>
     

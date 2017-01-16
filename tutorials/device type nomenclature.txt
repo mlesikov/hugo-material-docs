@@ -1,0 +1,36 @@
+
+
+Device Types nomenclature
+
+place:
+Administration / Device Types
+
+Device types defines a different specifications for the entered devices.
+
+
+examples :
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  name : PON
+  models :
+     Huawei HG863
+     Huawei HG8245T
+  params :
+     id   - string unique id that can be used for identification in the provisioing system
+     sn   - the serial number
+     mac  - the mac address
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  name : STB
+  models :
+     ZXV10 B700
+     HS6000IP
+  params :
+     sn
+     mac
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+These params will be used when a device:
+ - register in the system
+ - installed to the contract manually
+
+
+

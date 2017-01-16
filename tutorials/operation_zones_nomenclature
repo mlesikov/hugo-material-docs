@@ -1,0 +1,14 @@
+Working (Operation) zones
+
+Operation zones are polygons over the covered area.
+
+place:
+
+Administration / Operation Zones
+
+example: 
+  Bulgaria
+    - Sofia
+    - Veliko Tarnovo
+
+Set up users operation zones

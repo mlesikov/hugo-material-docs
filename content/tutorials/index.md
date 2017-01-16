@@ -35,3 +35,8 @@ You maybe noticed that the menu on the left contains a small table of contents o
 Admonition is a handy feature that adds block-styled side content to your documentation, for example hints, notes or warnings. It can be enabled by using the corresponding [shortcodes](http://gohugo.io/extras/shortcodes/) inside your content:
 
 {{< youtube SuQjiH-FEjo >}}
+
+<video width="100%" controls>
+       <source src="/video/device_types_nomenclature.ogv" type="video/mp4">
+       Your browser does not support HTML5 video.
+     </video>

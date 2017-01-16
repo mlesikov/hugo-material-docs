@@ -2,39 +2,29 @@
 date: 2017-01-10T11:48:54+02:00
 title: Подписване на договор
 ---
-##  Конфигуриране:
+##  Конфигуриране
    - Създаване на тип устойство(име, параметри, модели) - Администрация/Типове устройства
      <video width="100%" controls>
        <source src="/video/device_types_nomenclature.ogv" type="video/mp4">
        Your browser does not support HTML5 video.
      </video>
    - Създаване на типове услуги (Интернет, Телевизия)
-     <video width="100%" controls>
-       <source src="/video/service_type_nomenclature.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>
+     {{< youtube QDY-vB5b-c4 >}}
    - Създаване на услуги(вкл. типов устройства, типове услуги)
-     <video width="100%" controls>
-       <source src="/video/services_catalog.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>     
+     {{< youtube GUKDk9MZfKU >}}
    - Купони - отстъпли прилагани върху услуга
-     <video width="100%" controls>
-       <source src="/video/coupons_nomenclature.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>   
+   {{< youtube LK4aSVnqHno >}}
    - Дoпълнителни вземания - шаблони(Услуги с добавена стойност)
-     <video width="100%" controls>
-       <source src="/video/vas-templates_nomenclature.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>        
+   {{< youtube mObazOcvzAM >}}      
    - Номенклатура на градовете
-     <video width="100%" controls>
-       <source src="/video/operation_zones.ogv" type="video/mp4">
-       Your browser does not support HTML5 video.
-     </video>    
-   - Оперативни зони              
-
+   {{< youtube yKYgtu3PzJ0 >}}
+   - Оперативни зони
+     {{< youtube u2q-yYE0XdU >}}
+     
+##  Шаблони
+  - Създаване и използване
+  {{< youtube HxSXidGZwyo >}}
+  
 ##  Въвеждане
   - Град - населено мястно в което се подписва договорът
   - Външен референт - използва се за въвеждане на външен номер
@@ -60,9 +50,3 @@ title: Подписване на договор
      - забележки - свободен текст 
      - без възможност за редакция - позвлова наличието на буферен период между подписването и създаването на инсалация, в който могат да бъдат нанесени промени
 
-##  Шаблони
-  - Създаване и използване
-  <video width="100%" controls>
-     <source src="/video/contract_templates_nomenclature.ogv" type="video/mp4">
-     Your browser does not support HTML5 video.
-  </video>     
