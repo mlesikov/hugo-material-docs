@@ -1,0 +1,11 @@
+Contract tags
+
+The tags a different markers that are added to the controct and
+they are available on the installation tasks
+
+place:
+Administration / Tags
+
+example:
+ self installation
+ some other tag
