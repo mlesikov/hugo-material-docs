@@ -1,0 +1,32 @@
+Contacts
+
+Contacts can be add to the customer or to the contract.
+They contains communication details for their owner.
+
+
+Add contat to the customer/or contract on signing.
+customer : 9008085973 
+
+-------------------------------------------------------
+invoice contact:
+
+name: Jonh Green
+type: Invoicing
+address:
+email: johngreen@email.com
+description: accountant
+-------------------------------------------------------
+
+name: Bill Brown
+type: Troubles
+address:
+description: tenant
+phone:359845333333
+-------------------------------------------------------
+
+name: Tony Smith
+description: owner
+phone:359845222222
+-------------------------------------------------------
+
+The contacts will be saved when the contract is signed successfully.

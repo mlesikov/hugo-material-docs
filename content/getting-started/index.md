@@ -48,4 +48,5 @@ title: Signing a contract
 ##additonal
   - contract tags
     {{< youtube bf3Nx_5Q7_Y >}}
-  - contacts
+  - contacts - entering contact on contract signing
+    {{< youtube BgIXDkGOv3A >}}
