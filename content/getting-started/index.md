@@ -45,7 +45,7 @@ title: Signing a contract
      - notes 
      - no revision opportunity - allows edition of the contract in a time buffer between the signing and isntallation task creation,
 
-##additonal
+##  additonal stuffs
   - contract tags
     {{< youtube bf3Nx_5Q7_Y >}}
   - contacts - entering contact on contract signing
